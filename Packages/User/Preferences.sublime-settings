@@ -1,0 +1,16 @@
+{
+	"font_size": 12,
+	"rulers": [80],
+	"translate_tabs_to_spaces": true,
+	"indent_to_bracket": true,
+	"word_wrap": "true",
+	"wrap_width": [80],
+	"highlight_modified_tabs": true,
+	"bold_folder_labels": true,
+
+
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
